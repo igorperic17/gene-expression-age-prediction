@@ -6,3 +6,4 @@ mygene
 gtfparse
 polars
 matplotlib
+seaborn
